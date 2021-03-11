@@ -1,5 +1,5 @@
 
-# Server to receive images from pi over i2p and save them.
+# Server to receive images from pi over i2p and process them
 
 import socket
 import i2p
